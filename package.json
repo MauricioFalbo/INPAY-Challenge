@@ -1,0 +1,28 @@
+{
+  "name": "inpay-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioFalbo/INPAY-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioFalbo/INPAY-Challenge/issues"
+  },
+  "homepage": "https://github.com/MauricioFalbo/INPAY-Challenge#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.16.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.21"
+  }
+}
